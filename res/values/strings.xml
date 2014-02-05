@@ -3,6 +3,28 @@
 
     <string name="app_name">StockQuote</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="stock_symbol">Enter symbol</string>
+    <string name="enter_stock_symbol">Enter</string>
+    <string name="stock_symbol_list">Stock symbols and quotes</string>
+    <string name="change_stock_symbol">Change</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="missing_stock_symbol">Enter a Stock Symbol</string>
+    <string name="delete_all_symbols">Delete all symbols</string>
+    <string name="get_stock_quote">Quote</string>
+    <string name="get_stock_quote_from_web">Web</string>
+    <string name="invalid_stock_symbol">Invalid stock symbol</string>
+    
+    <!-- URL and XML strings -->
+    <string name="yahoo_stock_url">http://finance.yahoo.com/q?s=</string>
+    <string name="stock_company_name">Company name</string>
+    <string name="stock_year_low">Year low:</string>
+    <string name="stock_year_high">Year high:</string>
+    <string name="stock_days_low">Days low:</string>
+    <string name="stock_days_high">Days high:</string>
+    <string name="title_activity_stock_info">StockInfoActivity</string>
+    <string name="last_trade_price_only">Last price:</string>
+    <string name="change">Change:</string>
+    <string name="days_range">Daily price range:</string>
+    
 </resources>
